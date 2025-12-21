@@ -6,7 +6,7 @@
 
 ---
 
-**Speakers: **
+**Speakers:**
 1. Mr Baharudin Mastari ( Senior Deputy Registrar, Faculty of Computing )
 2. Ms Noor Hazwani Ramli ( Founder of GetMeHired )
 
