@@ -48,11 +48,18 @@ This visit to UTM Digital was very helpful and beneficial because it showed us h
 Through this visit, we were also exposed to the real role of managing data and digital services. We learned how these services help improve efficiency, communication, and decision-making within the organization. Overall, this visit increased our awareness of the importance of technology in today’s working environment and helped us better understand how our studies are related to future careers.
 
 ---
-Here's some photos at UTM Digital
+### Suggestion for Improvement
+Provide a longer Q&A session and more free gift for students to ensure they completely understand the talk's important point
+and are not left with any questions after the session.
 
+---
+Here's some photos at UTM Digital
 <img width="1920" height="2560" alt="image" src="https://github.com/user-attachments/assets/13e08ead-bdff-4aff-ac8e-2e7f48ad5c5c" />
 <img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/a23a8bbc-c5f3-444c-abaa-64136ca75b1e" />
 <img width="1179" height="660" alt="image" src="https://github.com/user-attachments/assets/6455ec9f-0377-4ec0-b3e6-942fd5f9e8bb" />
+
+---
+You may watch our video blog here 👉[video📽️]
 
 
 
