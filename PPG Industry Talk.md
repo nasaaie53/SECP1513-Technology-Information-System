@@ -35,7 +35,7 @@ From the industry talk I attended, I learned several important points. First, co
 ---
 #### Poster of the PPG Industry Talk
 
-[Poster1](file:///C:/Users/User/OneDrive/Desktop/TIS/poster%20industry%20talk%202.pdf)
+[Poster1](https://github.com/user-attachments/files/23667927/Assignment.1.Poster.PPG.docx)
 
 
 
