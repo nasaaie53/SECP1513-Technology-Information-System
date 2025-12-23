@@ -59,7 +59,7 @@ Here's some photos at UTM Digital
 <img width="1179" height="660" alt="image" src="https://github.com/user-attachments/assets/6455ec9f-0377-4ec0-b3e6-942fd5f9e8bb" />
 
 ---
-You may watch our video blog here 👉[video📽️]
+You may watch our video blog here 👉[video📽️](https://youtu.be/pQbLY2V4ZFA?si=KA3RYYybXbYWZFWi)
 
 
 
