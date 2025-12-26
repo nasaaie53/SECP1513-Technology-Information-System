@@ -30,6 +30,7 @@ Attending industry talks made me realize that an IT career is not just about cod
 ---
 
 ### Task
+[Assignment 3 Report System Development.docx](https://1drv.ms/w/c/dbfbd075ff9bafb8/IQCxUIO2ipJvTbLFj_dTJ3tDAZCggB5peYuEdxZn3eq1jWU?e=2JC5RR)
 
 ---
 Here is some photos on my Linkedln👉[Photos](
