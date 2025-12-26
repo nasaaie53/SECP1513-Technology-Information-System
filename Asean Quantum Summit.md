@@ -16,14 +16,13 @@
 ### Reflection
 - This event absolutely give me a clear understanding of Quantum Computer,especially at  the Qubit part.I was amazed after knowing the real potential of Quantum technologies in solving complex problems that even a normal computer not able to solve it.Besides,I am hoping to delve-into more theory or hands-on experience regarding this Quatum fields.I truly appreciated the coorperation between the researchers,industry and goverment in develope the ecosystem of Quantum in Asean for having us as participants to such a meaningful event.I am looking forward to attends next Quantum event if I stand a chance.All in all,I want to thank UTM and all the organisers involved
 
+---
 ### Suggestion for improvements
-
-
-
-
+- Provide a path or skills required for the students who interested to explore more to this Quantum fields
+- Show the most successful project built using Quantum technologies and compare it with the non-Quantum alternative to demonstrate the scale of                       differences in terms of certain aspects.
 
 ---
-Here is some photos on my Linkedln👉[photos](
+Here is some photos on my Linkedln👉[photos](https://www.linkedin.com/posts/activity-7405137645795926016-0S_1?utm_medium=ios_app&rcm=ACoAAF_AVeABoMK78eaEVh4MkQTc3OV9Gem9Cr4&utm_source=social_share_send&utm_campaign=copy_link)
   
 
 
