@@ -19,8 +19,11 @@ This Design Thinking project has open my perspective on how the technology can h
 ### Task
 [Design Thinking Project](https://1drv.ms/w/c/dbfbd075ff9bafb8/IQAQGIC5v78QS6o9kjKV1FAUAS5DygCWFtT3wnqOD_nY9to?e=XBPfBN)
 
+### Report
+Click [here](https://github.com/nasaaie53/SECP1513-Technology-Information-System/blob/main/Design%20Thinking%20Report%20(%20Group%201%20)%20(1).pdf) to see
+
 ### Video 
-[Click here to watch!!](https://youtu.be/3UUuz9on-7A?si=p1PzQazoXktRbDm5)
+Click [here](https://youtu.be/3UUuz9on-7A?si=p1PzQazoXktRbDm5) to watch!! 
 
 
 
