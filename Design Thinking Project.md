@@ -17,7 +17,10 @@ This Design Thinking project has open my perspective on how the technology can h
 - Provide longer time to complete the project but need to update the process on GitHub to prevent last minute working
 
 ### Task
-[Design Thinking Project](
+[Design Thinking Project](https://1drv.ms/w/c/dbfbd075ff9bafb8/IQAQGIC5v78QS6o9kjKV1FAUAS5DygCWFtT3wnqOD_nY9to?e=XBPfBN)
+
+### Video 
+[Click here to watch!!](https://youtu.be/3UUuz9on-7A?si=p1PzQazoXktRbDm5)
 
 
 
