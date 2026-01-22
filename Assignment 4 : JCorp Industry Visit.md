@@ -19,8 +19,20 @@ As a data engineering student who has seen this strategy firsthand in the indust
 ### Suggestion for improvement
 - Provide more time while exploring each room in the office and open and open a Q&A session to ensure everyone engaged
 
+---
 
-### Here is 
+Here is some photos on my Linkedln👉 [photos📷](https://www.linkedin.com/posts/activity-7414998572133453824-VTie?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF_AVeABoMK78eaEVh4MkQTc3OV9Gem9Cr4)
+
+--- 
+### Task after the talk
+
+
+---
+
+### Newsletter of the JCorp Industry Visit
+
+
+
   
 
 
