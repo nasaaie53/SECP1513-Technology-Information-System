@@ -16,6 +16,12 @@ Moreover,he also shared about the digital strategy which focuses on the use of A
 
 As a data engineering student who has seen this strategy firsthand in the industry, I realize that digital transformation is not just about software sophistication, but how technology acts as a catalyst to humanize work processes. Furthermore, I see that technical skills need to go hand in hand with the ability to adapt to the digital ecosystem. Integrating AI and Analytics is no longer an option but a necessity to ensure organizations remain relevant, where every decision must be data-driven to minimize risk and maximize impact on society.
 
+### Suggestion for improvement
+- Provide more time while exploring each room in the office and open and open a Q&A session to ensure everyone engaged
+
+
+### Here is 
+  
 
 
 
