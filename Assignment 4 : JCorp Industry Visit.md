@@ -31,7 +31,7 @@ Here is some photos on my Linkedln👉 [photos📷](https://www.linkedin.com/pos
 
 ### Newsletter of the JCorp Industry Visit
 
-click [here]() to see the poster
+click [here](https://github.com/nasaaie53/SECP1513-Technology-Information-System/blob/main/_Newsletter%20assignment%204%20TIS%20GP1.pdf) to see the poster
 
 
 
