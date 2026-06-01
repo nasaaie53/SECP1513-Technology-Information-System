@@ -33,6 +33,10 @@ Attending industry talks made me realize that an IT career is not just about cod
 [Assignment 3 Report System Development.docx](https://1drv.ms/w/c/dbfbd075ff9bafb8/IQCxUIO2ipJvTbLFj_dTJ3tDAZCggB5peYuEdxZn3eq1jWU?e=2JC5RR)
 
 ---
+### Report
+[Report of Project Management & System Developmet](https://github.com/nasaaie53/SECP1513-Technology-Information-System/blob/main/ACADEMIC%20WRITING%20GROUP%201%20TIS.pdf)
+
+---
 Here is some photos on my Linkedln👉[Photos](https://www.linkedin.com/posts/activity-7410165986382917632-rhaR?utm_medium=ios_app&rcm=ACoAAF_AVeABoMK78eaEVh4MkQTc3OV9Gem9Cr4&utm_source=social_share_send&utm_campaign=copy_link)
 
 
